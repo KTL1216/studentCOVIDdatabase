@@ -1,6 +1,6 @@
 # Student COVID Database
 
-Video of demonstrating using this web app can be found in the video Demonstration_Video.mp4
+Video of demonstrating using this web app can be found in the video Demonstration_Video.mp4, or by visiting this link to the video posted on Google Drive: https://drive.google.com/file/d/17TISgZiGigdPhcS4iK6Mutyw3rR7K0Hg/view?usp=sharing. The code explaination starts at 3:20 of the video.
 
 UML diagram, workflow chart, and implications of this project can be found in Detailed_Explaination.pdf
 
