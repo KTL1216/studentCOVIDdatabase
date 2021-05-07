@@ -2,6 +2,8 @@
 
 This program serves as a web app that tracks important information about a Northeastern student who have had contracted COVID19 in the past. It can be used for any event organizer to review their guest list and evaluate the safety for inviting certain individual to a face-to-face event.
 
+For the purpose of keeping the file size reasonable, the code folder did not include installed packages used for this project. One can download all the relevant packages by executing "npm install package.json" in the terminal, as package is included in the code folder.
+
 Libraries and languages used: 
 * Front-end: JavaScript, HTML, and React.js. CSS for styling.
 * Back-end: JavaScript, Node.js, SQL(MySQL workbench)
