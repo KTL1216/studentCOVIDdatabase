@@ -1,6 +1,6 @@
 # Student COVID Database
 
-Video of demonstrating using this web app can be found in the video Video_Demonstration.mp4
+Video of demonstrating using this web app can be found in the video Demonstration_Video.mp4
 
 UML diagram, workflow chart, and implications of this project can be found in Detailed_Explaination.pdf
 
